@@ -1,0 +1,21 @@
+{
+  "MongoConnectionURL": "mongodb://Lekma:vadim2009.@cluster0-shard-00-00.4ilsy.mongodb.net:27017,cluster0-shard-00-01.4ilsy.mongodb.net:27017,cluster0-shard-00-02.4ilsy.mongodb.net:27017/?ssl=true&replicaSet=atlas-v2mjrt-shard-0&authSource=admin&retryWrites=true&w=majority",
+
+  "StarPoints": 1,
+  "Tickets": 1,
+  "Gold": 1,
+  "Gems": 1,
+  "Trophies": 0,
+  "ExperiencePoints": 90000,
+  "BrawlBoxTokens": 10000,
+  "BigBoxTokens": 100,
+  "Region": "RU",
+  "ThemeID": 11,
+  "ContentCreatorCodes": ["modern brawl"],
+  "BannedIPs": [],
+  "Maintenance": false,
+  "SecondsTillMaintenanceOver": 3600,
+  "Patch": false,
+  "PatchURL": "http://192.168.0.103:8080/",
+  "UpdateURL": ""
+}
